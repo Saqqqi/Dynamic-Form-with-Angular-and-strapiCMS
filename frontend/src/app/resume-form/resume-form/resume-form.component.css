@@ -1,0 +1,20 @@
+/* profile.component.css */
+.profile-section {
+    margin-bottom: 20px;
+  }
+  
+  .profile-fields {
+    display: grid;
+    grid-template-columns: 100px auto;
+    gap: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  span {
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+  

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_projects_projects",
+  "info": {
+    "displayName": "Projects"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "string"
+    },
+    "technologies_used": {
+      "type": "string"
+    },
+    "start_date": {
+      "type": "integer"
+    },
+    "end_date": {
+      "type": "integer"
+    }
+  }
+}
